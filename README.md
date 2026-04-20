@@ -1,5 +1,5 @@
 # SaaS Revenue & Churn Prediction Engine
-**Live Dashboard:** [View Interactive Tableau Deployment Here]((https://public.tableau.com/views/saas_churn_prediction_engine/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+**Live Dashboard:** [View Interactive Tableau Deployment Here](https://public.tableau.com/views/saas_churn_prediction_engine/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Overview](assets/tableau_dashboard_saas-churn-prediction-engine.png)
 
